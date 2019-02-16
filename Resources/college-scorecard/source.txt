@@ -1,0 +1,5 @@
+csvs in this folder downloaded from:
+
+https://catalog.data.gov/dataset/college-scorecard/resource/2a7f670e-0799-436a-9394-df0a9b3ba7c5
+
+https://ed-public-download.app.cloud.gov/downloads/CollegeScorecard_Raw_Data.zip
