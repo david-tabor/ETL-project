@@ -1,5 +1,6 @@
 # Local files (e.g. for passwords)
 local/
+config.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
